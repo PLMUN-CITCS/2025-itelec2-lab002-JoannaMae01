@@ -1,6 +1,6 @@
-# YOUR NAME
+# Joanna Mae A. Arciaga
 # ITELEC2
-# Problem Set 01 - Problem 01
+# Problem Set 02 - Problem 02
 # Simple Calculator Program
 
 def main():
